@@ -4,14 +4,14 @@ An ontology of histopathological morphologies used by pathologists to classify/c
 
 The original structure of the histopathology ontology was designed ab initio when the INHAND manuscripts were not available.  However, the ontology has been repetitively reviewed and updated to align with the subsequently published INHAND manuscripts.  During this process cross references to INHAND lesion identifiers were added to the ontology. Note: some parts of ontology are pending a review as the corresponding INHAND manuscripts have not yet been published. 
 
-#Key Features
+# Key Features
 * Created, reviewed and curated by pathologists from multiple organisations.
 * Aligned and cross referenced to [INHAND terms](http://www.goreni.org).
 
-#Format
+# Format
 Histopathology Ontology is delivered in [OBO format](https://github.com/owlcollab/oboformat)
 
-#Acknowledgements
+# Acknowledgements
 Histopathology Ontology was initially developed in frame of the eTOX consortium. It has received support from the Innovative Medicines Initiative Joint Undertaking under grant agreement n°115002, resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies' in kind contribution. We would like to formally acknowledge the contribution to the eTOX project of all scientists and other staff involved.
 
 [![eTOX](img/etox-logo.png "eTOX")](http://www.etoxproject.eu) [![IMI](img/imi-logo.png "IMI")](http://www.imi.europa.eu)
